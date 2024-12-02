@@ -15,6 +15,7 @@ This repository contains example code for multicast communication in C. It inclu
 To compile the programs, use the gcc compiler as follows:
 
 > gcc sender.c -o sender
+
 > gcc recieve.c -o recieve
 
 **How to Run**
